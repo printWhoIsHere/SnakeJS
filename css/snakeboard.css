@@ -1,0 +1,7 @@
+#snakeboard {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-20%, -52%);
+	border-radius: 5pt;
+}
